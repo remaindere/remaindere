@@ -1,10 +1,10 @@
-# 안녕하세요 👋, 송광원입니다.  
+**👋 안녕하세요 , 송광원입니다.**   
   
-## 🌱 ML / SW Engineer   
+**🌱 ML / SW Engineer**   
   
-## 👀 Python(Pytorch), Java, C++  
+**👀 Python(Pytorch), Java, C++**   
   
-## 📫 remaindere@gmail.com   
+**📫 remaindere@gmail.com**   
   
 <!---
 remaindere/remaindere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
