@@ -2,7 +2,7 @@
   
 **🌱 ML / SW Engineer**   
   
-**👀 Python(Pytorch), Java, C++**   
+**👀 Python(Pytorch), Java, C++**  
   
 **📫 remaindere@gmail.com**   
   
