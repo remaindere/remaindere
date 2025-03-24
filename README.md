@@ -1,8 +1,8 @@
-**👋 안녕하세요! 송광원 ([CV](https://drive.google.com/file/d/1UP849JF1rpjm90SqiyLMmXXw5oSDqEIx/view?usp=sharing)) 입니다.**   
+**👋 안녕하세요, 송광원 ([CV](https://drive.google.com/file/d/1LRXZvESrd9p3cjdMdOWEBayhe6gem9pS/view?usp=sharing)) 입니다.**   
   
-**🌱 ML / SW Engineer**   
+**🌱 AI / Backend Engineer**   
   
-**👀 Python(Pytorch), Java, C++**  
+**👀 Python, Java, Docker, Kubernetes**  
   
 **📫 remaindere@gmail.com**   
   
